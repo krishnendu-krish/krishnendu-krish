@@ -1,6 +1,6 @@
 # Hi 👋, I'm Krishnendu
 
-### Full Stack Developer | AI Enthusiast | Problem Solver
+### Full Stack Developer
 
 Passionate about building scalable web applications, exploring AI technologies, and continuously improving through real-world projects and coding challenges.
 
@@ -11,7 +11,6 @@ Passionate about building scalable web applications, exploring AI technologies, 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 
 ### Frontend
 
@@ -57,7 +56,7 @@ Passionate about building scalable web applications, exploring AI technologies, 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Krishnendu k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/Krishnendu](https://www.linkedin.com/in/krishnendu-k-14408537a/?skipRedirect=true))
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://YOUR_PORTFOLIO_LINK)
 
