@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Krishnendu
 
-<!--
-**krishnendu-krish/krishnendu-krish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Full Stack Developer
+- 🌱 Learning AI & Cloud
+- ⚡ Love building projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=krishnendu-krish&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=krishnendu-krish&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=krishnendu-krish)
+
+
+
+## 💻 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/krishnendu)
