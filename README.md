@@ -6,7 +6,6 @@ Passionate about building scalable web applications, exploring AI technologies, 
 
 ---
 
-## 🚀 Tech Stack
 # 🛠 Technologies & Tools I Work With
 
 ## Frontend
