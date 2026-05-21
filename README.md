@@ -7,38 +7,111 @@ Passionate about building scalable web applications, exploring AI technologies, 
 ---
 
 ## 🚀 Tech Stack
-### Frontend
+# 🛠 Technologies & Tools I Work With
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwind-css)
+## Frontend
 
-### Backend & Database
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+HTML5
+</td>
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django)
-![Django REST Framework](https://img.shields.io/badge/DRF-000000?style=flat-square&logo=django)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite)
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+CSS3
+</td>
 
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+JavaScript
+</td>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code)
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+React
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=redux" width="55"/><br>
+Redux
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+Tailwind CSS
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## Backend & Database
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnendu-krish&show_icons=true&theme=tokyonight&hide_border=true)
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+Python
+</td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnendu-krish&layout=compact&theme=tokyonight&hide_border=true)
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=django" width="55"/><br>
+Django
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>
+PostgreSQL
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>
+SQLite
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+Git
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+GitHub
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+VS Code
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
+Postman
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+SQL
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/django-rest.svg" width="55"/><br>
+DRF
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="55"/><br>
+REST API
+</td>
+
+</tr>
+</table>
+
+---
 
 ---
 
